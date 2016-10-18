@@ -26,7 +26,7 @@ mySound.play();
 function gamble(Speed,yHeight){
   fill(255,0,0);
   stroke(0);
-  ellipse(xHeight,yHeight,50,50)
+//   ellipse(xHeight,yHeight,50,50)
   image(head,xHeight,yHeight);
 
 
@@ -45,7 +45,7 @@ function gamble(Speed,yHeight){
     // xHeight2=0;
     fill(255,0,0);
     stroke(0);
-    ellipse(xHeight2,yHeight,50,50)
+//     ellipse(xHeight2,yHeight,50,50)
     image(body,xHeight2,yHeight);
 
 
@@ -64,7 +64,7 @@ function gamble(Speed,yHeight){
     function gamble3(Speed3,yHeight3){
       fill(255,0,0);
       stroke(0);
-      ellipse(xHeight3,yHeight3,50,50)
+//       ellipse(xHeight3,yHeight3,50,50)
       image(feet,xHeight3,yHeight3);
 
 

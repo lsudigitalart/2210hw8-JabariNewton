@@ -39,6 +39,7 @@ function gamble(Speed,yHeight){
         xHeight = -600;
       }
     }
+  
   }
 
   function gamble2(Speed2,yHeight){
